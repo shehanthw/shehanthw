@@ -1,16 +1,23 @@
-## Hi there 👋
+#### Shehanth Wanigasinghe
+## Software Automation Engineer | QA Engineer
 
-<!--
-**shehanthw/shehanthw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- Python
+- Bash
+- Backend: Django, fastAPI, Express
+- Frontend: Next.js, Vite, Tailwind CSS
+- Playwright (Python / Typescript)
+- Selenium, TestNG, Cucumber
+- Java
+- CI/CD: Git, GitLab, Jenkins
+- Cloud: AWS
+- OS: Ubuntu, Centos
 
-Here are some ideas to get you started:
+### 💼 Experience
+- QA Automation, Senior QA Consultant (6 Years +)
+- Software Implementation Engineer
+- Software Support Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- LinkedIn: [link](https://www.linkedin.com/in/shehanthwanigasinghe/)
+
