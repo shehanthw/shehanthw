@@ -1,4 +1,4 @@
-## Shehanth Wanigasinghe
+### Shehanth Wanigasinghe
 #  Software Automation Engineer | QA Engineer
 
 ### 🔧 Tech Stack
